@@ -4,6 +4,9 @@
     margin: 0;
 }
 
+/*--add root with white var and blue background variable*/
+
+
 body {
     background-color: #d9dcd6;
 }
@@ -86,6 +89,10 @@ p {
     background-color: #2589bd;
 }
 
+
+/*will group together these three classes*/
+
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +108,9 @@ p {
     color: #ffffff;
 }
 
+
+/*will group together these three classes*/
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -115,6 +125,10 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+
+
+/*will group together these three classes*/
 
 .benefit-lead img {
     display: block;
@@ -133,6 +147,10 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+
+
+/* will group together these three classes */
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -161,6 +179,9 @@ p {
     color: #ffffff;
 }
 
+
+/*will group together these three classes*/
+
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,6 +193,10 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+
+
+
+/*will group together these three classes*/
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
